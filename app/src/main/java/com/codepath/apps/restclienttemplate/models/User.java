@@ -38,10 +38,10 @@ public class User {
     }
 
     public static List<User> fromJsontweetArray(List<Tweet> tweetsFromNetwork) {
-        List<User> users = new ArrayList<>();
+       List<User> users = new ArrayList<>();
         for(int i=0;i<tweetsFromNetwork.size();i++){
-            users.add(tweetsFromNetwork.get(i).user);
-        }
-        return users;
-    }
+           users.add(tweetsFromNetwork.get(i).user);
+       }
+      return users;
+   }
 }
