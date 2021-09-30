@@ -8,26 +8,26 @@ Time spent: **15** hours spent in total
 
 The following **required** functionality is completed:
 
-- [Y] User can **sign in to Twitter** using OAuth login
-- [Y]	User can **view tweets from their home timeline**
-- [Y ] User is displayed the username, name, and body for each tweet
-- [Y ] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
-- [Y ] User can refresh tweets timeline by pulling down to refresh
+- [x] User can **sign in to Twitter** using OAuth login
+- [x]	User can **view tweets from their home timeline**
+- [x] User is displayed the username, name, and body for each tweet
+- [x] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
+- [x] User can refresh tweets timeline by pulling down to refresh
 
 The following **optional** features are implemented:
 
-- [Y ] User can view more tweets as they scroll with infinite pagination
-- [ Y] Improve the user interface and theme the app to feel "twitter branded"
-- [ Y] Links in tweets are clickable and will launch the web browser
-- [Y ] User can tap a tweet to display a "detailed" view of that tweet
-- [Y ] User can see embedded image media within the tweet detail view
-- [ Y] User can watch embedded video within the tweet
-- [ Y] User can open the twitter app offline and see last loaded tweets
-- [ Y] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
+- [x] User can view more tweets as they scroll with infinite pagination
+- [] Improve the user interface and theme the app to feel "twitter branded"
+- [] Links in tweets are clickable and will launch the web browser
+- [] User can tap a tweet to display a "detailed" view of that tweet
+- [] User can see embedded image media within the tweet detail view
+- [] User can watch embedded video within the tweet
+- [x] User can open the twitter app offline and see last loaded tweets
+- [] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
 
 The following **additional** features are implemented:
 
-- [ Y] List anything else that you can get done to improve the app functionality!
+- [] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
